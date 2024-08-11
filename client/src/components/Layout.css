@@ -1,0 +1,17 @@
+.flex-container {
+    position: relative;
+    background-color:skyblue;
+    overflow: auto;
+    padding: 10px;
+}
+.start-component {
+    float: left;
+    font-size: xx-large;
+    color: white;
+    font-weight: 600;
+    font-style: 'Times New Roman';
+    align-content: center;
+}
+.end-component {
+    float: right;
+}

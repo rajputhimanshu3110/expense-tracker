@@ -1,0 +1,25 @@
+{
+  "short_name": "Account",
+  "name": "Accounting Software",
+  "icons": [
+    {
+      "src": "seemarise.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "seemarise.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "seemarise.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
